@@ -1,5 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" image-rendering="optimizeQuality" baseProfile="basic" style="background-color:#fff" viewBox="0 0 750 1000" preserveAspectRatio="xMidYMin slice"
-         width="100%" style="padding-bottom: 133%; height: 1px; overflow: visible">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 750 1000" preserveAspectRatio="xMidYMin slice" width="100%" image-rendering="optimizeQuality" baseProfile="basic" style="background-color:#fff; padding-bottom: 133%; height: 1px; overflow: visible">
   <defs>
     <radialGradient id="a" cx="206.73" cy="1340.41" r="1432.02" gradientUnits="userSpaceOnUse" fx="206.73" fy="1340.41" gradientTransform="matrix(.996 .088 -.062 .7 18.85 84.2)">
       <stop stop-color="#0D1C15" offset="0"/>
